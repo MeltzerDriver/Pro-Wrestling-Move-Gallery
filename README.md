@@ -12,8 +12,7 @@ Naming of a move consists of three parts:
 2. decoration part
 3. version part
 
-Take [Double underhook facebuster(lifting sitout version)][link1] for example.
-[link1]:https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif
+Take [Double underhook facebuster(lifting sitout version)](https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif) for example.
 
 ![Double underhook facebuster(lifting sitout version)][link2]
 [link2]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif?raw=true
