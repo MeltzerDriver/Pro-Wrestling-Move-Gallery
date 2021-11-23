@@ -13,7 +13,7 @@ Naming of a move consists of three parts:
 3. version part
 
 Take [Double underhook facebuster(lifting sitout version)][link1] for example.
-[link1]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif
+[link1]:https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif
 
 ![Double underhook facebuster(lifting sitout version)][link2]
 [link2]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif?raw=true
@@ -27,14 +27,6 @@ Take [Double underhook facebuster(lifting sitout version)][link1] for example.
 > * twisting
 > * spinning
 > * lifting
->
-> Please notice that I've dropped out the following decoration parts, because they are either not essentially changing the motion or too difficult to distinguish:
->
-> * running
-> * jumping
-> * delayed
-> * elevated
-> * high-angle
 
 "sitout version" is the *version part*. It indicates the performing version of this move. It usually appears in the brackets as "XX version". 
 
@@ -76,7 +68,7 @@ Take [Double underhook facebuster(lifting sitout version)][link1] for example.
 ![Reverse piledriver][link10]
 [link10]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Drivers/2%20Piledrivers/8.1.1%20Reverse%20piledriver.gif?raw=true
 
-In addition, *reverse* moves also indicate that a wrestler performs the moves in the opposite direction. See [Bulldog][link11] and [Reverse bulldog][link12](Due to different explanations, there are two Reverse bulldogs in this gallery).
+In addition, *reverse* moves also indicate that a wrestler performs the moves in the opposite direction. See [Bulldog][link11] and [Reverse bulldog][link12].
 [link11]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Bulldogs/1.1.1%20Bulldog.gif
 [link12]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Mat%20slams/5.1.1%20Reverse%20bulldog%7B2%7D.gif
 
@@ -85,6 +77,8 @@ In addition, *reverse* moves also indicate that a wrestler performs the moves in
 
 ![Reverse bulldog][link14]
 [link14]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Mat%20slams/5.1.1%20Reverse%20bulldog%7B2%7D.gif?raw=true
+
+Due to different explanations, there are two Reverse bulldogs in this gallery. Can you guess what the other one looks like?
 
 Please notice that Inverted facelock is compared to Facelock, not Front facelock. Also, Inverted DDT / suplex is short for Inverted facelock DDT / suplex.
 
@@ -110,15 +104,26 @@ Please notice that Inverted facelock is compared to Facelock, not Front facelock
 ![Swinging side slam][link18]
 [link18]: https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Slams/1%20Slams/1.3.1%20Swinging%20side%20slam.gif?raw=true
 
+### Ignore list
+
+I've dropped out the following moves, because they are either not essentially changing the motion or too difficult to distinguish.
+
+* running moves
+* jumping moves
+* diving attacks
+* standing aerial techniques
+* slingshot aerial techniques
+* springboard aerial techniques
+* delayed throws
+* elevated throws
+* avalanche throws
+* high-angle throws
+* bridging suplexes
+
 ### Just so you know
 
-* Avalanche throws are not included in this website.
-* Bridging suplexes are not included in this website.
-* Springboard and slingshot version of moves are neglected in aerial techniques.
-* Standing version of moves are neglected in aerial techniques.
-* Diving version of moves are neglected in attacks.
-* A lariat is essentially a very stiff, swinging clothesline, according to Wikipedia.
 * Modified moves always come with their users in square brackets.
+* A lariat is essentially a very stiff, swinging clothesline, according to Wikipedia.
 
 ### Join me
 
