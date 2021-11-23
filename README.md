@@ -14,7 +14,7 @@ Naming of a move consists of three parts:
 
 Take [Double underhook facebuster(lifting sitout version)](https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif) for example.
 
-![Double underhook facebuster(lifting sitout version)][https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif?raw=true]
+![Double underhook facebuster(lifting sitout version)](https://github.com/MeltzerDriver/Pro-Wrestling-Move-Gallery/blob/main/Throws/Facebusters/7.1.3%20Double%20underhook%20facebuster(lifting%20sitout%20version).gif?raw=true)
 
 "Double underhook facebuster" is the *main part*. It is the unique symbol of a particular pro wrestling move. It always appears on the title.
 
